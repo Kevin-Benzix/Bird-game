@@ -1,0 +1,16 @@
+div{
+    color: firebrick;
+    text-align: center;
+    margin-top: 320px;
+}
+
+a{
+    background-color: indigo;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px grey;
+}

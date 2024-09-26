@@ -1,0 +1,18 @@
+.red-div{
+    background-color: red;
+    width: 33.3%;
+}
+
+.green-div{
+    background-color: green;
+    width: 33.3%;
+}
+
+.blue-div{
+    background-color: blue;
+    width: 33.3%;
+}
+
+main{
+    display: flex;
+}
